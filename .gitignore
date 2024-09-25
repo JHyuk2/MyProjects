@@ -1,0 +1,10 @@
+#.gitingore
+
+*.pdf
+*.txt
+*.pickle
+*.env
+*.csv
+*.xlsx
+*.pptx
+*.gguf
