@@ -1,6 +1,5 @@
 #.gitingore
 
-*.pdf
 *.txt
 *.pickle
 *.env
