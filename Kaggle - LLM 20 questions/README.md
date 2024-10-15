@@ -4,7 +4,7 @@
 
 ### [대회 - Kaggle 스무고개 컴피티션](https://www.kaggle.com/competitions/llm-20-questions)
 
-![20questions](.\assets\20 Question.JPG)
+<img src="./assets/20 Question.JPG">
 
 ---
 
@@ -45,7 +45,7 @@
 - 스무고개 10게임 중 한 번 답을 맞출 정도로, 좋은 성적은 거두지 못하였습니다.
 - LLM에 대한 이해를 할 수 있는 대회로, 프롬프트와 RAG에 대한 지식을 쌓았습니다.
 
-![game](.\assets\game_1.jpg)
+<img src="./assets/game_1.JPG">
 
 
 
