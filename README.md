@@ -12,7 +12,7 @@
 >
 > [링크_아직 안넣음]
 
-
+<br>
 
 ## Projects
 
@@ -60,6 +60,8 @@
 
 
 
+<br>
+
 
 
 ## Skills and Tools
@@ -68,7 +70,7 @@
 - **라이브러리 및 프레임워크** : Scikit-learn, Pytorch, Hugging Face / Java Spring
 - **기술 스택** : NLP, ML, LLM, Data Preprocessing
 
-
+<br>
 
 
 
