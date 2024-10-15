@@ -8,9 +8,9 @@
 >
 > 아래 프로젝트는 각기 다른 문제를 해결하기 위해 ML, DL, LLM모델을 활용한 내용입니다.
 >
-> 제 CV는 다음 링크에서 확인하실 수 있습니다!
+> 자세한 내용은 아래 링크에서 확인하실 수 있습니다!
 >
-> [링크_아직 안넣음]
+> :information_source: [Curriculum Vitae](https://github.com/JHyuk2/html-resume/blob/master/JongHyeok_CV_2024.pdf)
 
 <br>
 
