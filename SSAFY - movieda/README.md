@@ -83,7 +83,7 @@
 ### DB ERD
 - https://www.erdcloud.com/d/SuBgZhGQTGifi3XsH
 
-![ERD cloud](/my_img/ERD.jpg)
+![ERD cloud](my_img/ERD.jpg)
 
 
 
@@ -290,7 +290,7 @@ Community,
     - naver 영화검색 - original_title로 검색 시 얻어지는 감독/배우 정보 사용 :movie_camera:
     - papago api 수용량 상승 :arrow_upper_right: (limit - 약 300개 영화)
 
-  <img src="/my_img/api_capa.jpg" width="600px" height="300px" title="api_capa"></img>
+  <img src="my_img/api_capa.jpg" width="600px" height="300px" title="api_capa"></img>
 
 - [x] models & serializer 일부 수정
   - movie - release_date | DateTimeField => DateField
