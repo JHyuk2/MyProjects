@@ -1,5 +1,7 @@
 # Lee Jong-hyuk's Portfolio
 
+:information_source: [Curriculum Vitae](https://github.com/JHyuk2/html-resume/blob/master/JongHyeok_CV_2024.pdf)
+
 > AI로 문제를 해결하는 도전자, 이종혁 입니다!
 >
 > 저는 데이터 분석과 AI 프로젝트를 통해 조금 더 밝은 세상을 만들고자 노력하는 사람입니다.
@@ -10,7 +12,8 @@
 >
 > 자세한 내용은 아래 링크에서 확인하실 수 있습니다!
 >
-> :information_source: [Curriculum Vitae](https://github.com/JHyuk2/html-resume/blob/master/JongHyeok_CV_2024.pdf)
+
+
 
 <br>
 
@@ -52,7 +55,7 @@
 
 **[기술 스택]** : Python, Hugging-face (`transformers, langchain`), Stable Diffusion(`Openai`)
 
-**[성과]** : Instagram API와 함께 특정 키워드를 넣으면 자동으로 게시글을 생성해주는 봇 생성, 약 80% 이상의 긍정적으로 받아들여질 수 있는 메세지를 전달 가능.
+**[성과]** : Instagram API와 연동하여, 특정 키워드를 입력하면 자동으로 게시글을 생성해주는 봇 생성, 약 80% 이상의 긍정적으로 받아들여질 수 있는 메세지를 전달 가능.
 
 
 
