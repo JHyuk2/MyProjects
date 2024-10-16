@@ -1,6 +1,6 @@
 # Lee Jong-hyuk's Portfolio
 
-:information_source: [Curriculum Vitae](https://github.com/JHyuk2/html-resume/blob/master/JongHyeok_CV_2024.pdf)
+:information_source: [Link - Curriculum Vitae](https://github.com/JHyuk2/html-resume/blob/master/JongHyeok_CV_2024.pdf)
 
 > AI로 문제를 해결하는 도전자, 이종혁 입니다!
 >
